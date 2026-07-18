@@ -22,6 +22,13 @@ ms.topic: overview
 * アプリケーションコード: ワークスペースルート。`aidlc-docs/` には配置しない
 * ドキュメント: `aidlc-docs/` のみ
 
+## Extension Configuration
+
+| Extension             | Enabled | Decided At           |
+|-----------------------|---------|----------------------|
+| Security Baseline     | Yes     | Requirements Analysis |
+| Property-Based Testing | Yes     | Requirements Analysis |
+
 ## ステージ進行状況
 
 ### INCEPTION PHASE
