@@ -19,7 +19,7 @@ C) 9〜12歳の小学校中・高学年
 D) 複数の年齢層
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 2
 
@@ -31,7 +31,7 @@ C) 健康・生活習慣・感情理解などの成長支援
 D) 安全なゲーム・遊び
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 3
 
@@ -42,7 +42,7 @@ B) 複数のコンテンツと進捗機能を含む標準版
 C) 子供用と保護者用の機能を含む包括版
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 4
 
@@ -53,7 +53,7 @@ B) iOS と Android のモバイルアプリ
 C) Web とモバイルアプリ
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 5
 
@@ -64,7 +64,7 @@ B) 利用時間や進捗を確認できるダッシュボード
 C) 保護者の承認、設定、複数の子供プロフィールを含む管理機能
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 6
 
@@ -75,7 +75,7 @@ B) ニックネームと進捗のみを保存し、保護者の同意を取得�
 C) アカウント、クラウド同期、外部との交流機能を提供する
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 7
 
@@ -86,7 +86,7 @@ B) A に加え、音声支援、読みやすさ、色覚配慮などのアクセ
 C) B に加え、専門家による教育・安全性レビュー
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 8
 
@@ -98,7 +98,7 @@ C) 保護者の継続利用や満足度が高いこと
 D) 試作品を早期に公開してフィードバックを得ること
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A>B>D
 
 ## Question 9
 
@@ -108,7 +108,7 @@ A) はい。すべてのセキュリティルールをブロッキング制約�
 B) いいえ。試作または実験目的のため、セキュリティルールを適用しない
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
 
 ## Question 10
 
@@ -117,6 +117,6 @@ Property-Based Testing 拡張のルールをこのプロジェクトで強制し
 A) はい。すべての PBT ルールをブロッキング制約として強制する
 B) 一部のみ。純粋関数とシリアライズの往復検証に限って適用する
 C) いいえ。PBT ルールを適用しない
-X) Other (please describe after [Answer]: tag below)
+X) Other (please descriAe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:A
